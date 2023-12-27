@@ -1,10 +1,10 @@
-<link rel="canonical" href="https://levelup.gitconnected.com/the-right-way-to-create-observable-subjects-in-javascript-2c372cc22b2b?sk=eece04145f69cced720442c4a625cb57" />
+<link rel="canonical" href="https://www.developmentsimplyput.com/post/the-right-way-to-create-observable-subjects-in-javascript" />
 
 # The Right Way to Create Observable Subjects in JavaScript
 ### A best practice on how to define your Subjects in JavaScript objects.
 
 <p align="center">
-  <img src="https://miro.medium.com/max/1400/1*y5mT2czKkVVLHsdA1A91lQ.jpeg">
+  <img src="https://static.wixstatic.com/media/488a99_ecd4e9dd21ac40c593f9ea817ab36366~mv2.png">
 </p>
 
 <br/>
@@ -58,4 +58,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
 [Other Article]: https://javascript.plainenglish.io/how-to-use-observables-with-vanilla-javascript-aca40a7590ff?sk=21af550f3c383951c87c208da33226b6
-[Article]: https://levelup.gitconnected.com/the-right-way-to-create-observable-subjects-in-javascript-2c372cc22b2b?sk=eece04145f69cced720442c4a625cb57
+[Article]: https://www.developmentsimplyput.com/post/the-right-way-to-create-observable-subjects-in-javascript
